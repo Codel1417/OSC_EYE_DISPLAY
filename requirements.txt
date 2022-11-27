@@ -1,6 +1,6 @@
-Quart
-Jinja2
-markupsafe
-python-osc
-selenium
-webdriver-manager
+Quart==0.18.3
+Jinja2==3.1.2
+markupsafe==2.1.1
+python-osc==1.8.0
+selenium==4.6.1
+webdriver-manager==3.8.5
