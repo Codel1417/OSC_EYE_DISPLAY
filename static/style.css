@@ -1,0 +1,31 @@
+html, body {
+    margin: 0;
+    height: 100vh;
+}
+
+.leftEye, .rightEye {
+    height: 100vh;
+    justify-content: center;
+    margin: 0;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+#eyeMainBox {
+    height: 100vh;
+    column-count: 2;
+    margin: 0;
+    align-content: center;
+    vertical-align: middle;
+}
+
+.eyeTex {
+    width: 80%;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    overflow: hidden;
+}

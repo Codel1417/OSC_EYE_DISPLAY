@@ -1,0 +1,4 @@
+Quart
+Jinja2
+markupsafe
+python-osc
